@@ -1,0 +1,14 @@
+{
+  "name": "last",
+  "repo": "jb55/last",
+  "description": "Get the last element of array-like objects",
+  "version": "0.0.1",
+  "keywords": ["array", "last"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
